@@ -1,0 +1,16 @@
+1, File Not Found
+2, Auto Name Missing
+3, Make Missing
+4, Model Missing
+5, Base Price Missing
+6, Base Price Invalid
+7, OptionSet Name Missing
+8, OptionSet Count Missing
+9, OptionSet Count Invalid
+10, OptionSet Missing
+11, Option Name Missing
+12, Option Count Missing
+13, Option Count Invalid
+14, Option Price Missing
+15, Option Price Invalid
+16, Option Missing

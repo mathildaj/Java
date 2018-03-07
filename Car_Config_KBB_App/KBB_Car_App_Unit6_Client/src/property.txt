@@ -1,0 +1,4 @@
+C:\Users\carl\workspace\KBB_Car_App_Unit6_Client\src\FocusWagonZTW.properties
+
+
+C:\Users\carl\workspace\KBB_Car_App_Unit6_Client\src\HelloKitty.properties
